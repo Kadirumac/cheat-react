@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/cheat-react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cheat-react/static/js/main.db99cecb.chunk.js",
-    "main.js.map": "/cheat-react/static/js/main.db99cecb.chunk.js.map",
+    "main.css": "/cheat-react/static/css/main.66ef0fde.chunk.css",
+    "main.js": "/cheat-react/static/js/main.07833486.chunk.js",
+    "main.js.map": "/cheat-react/static/js/main.07833486.chunk.js.map",
     "runtime-main.js": "/cheat-react/static/js/runtime-main.6200d7a3.js",
     "runtime-main.js.map": "/cheat-react/static/js/runtime-main.6200d7a3.js.map",
-    "static/js/2.2e2ce36f.chunk.js": "/cheat-react/static/js/2.2e2ce36f.chunk.js",
-    "static/js/2.2e2ce36f.chunk.js.map": "/cheat-react/static/js/2.2e2ce36f.chunk.js.map",
+    "static/css/2.c5604eee.chunk.css": "/cheat-react/static/css/2.c5604eee.chunk.css",
+    "static/js/2.6a23c4ff.chunk.js": "/cheat-react/static/js/2.6a23c4ff.chunk.js",
+    "static/js/2.6a23c4ff.chunk.js.map": "/cheat-react/static/js/2.6a23c4ff.chunk.js.map",
     "index.html": "/cheat-react/index.html",
-    "precache-manifest.979b0372abce3bc1d96f75610cee9bf3.js": "/cheat-react/precache-manifest.979b0372abce3bc1d96f75610cee9bf3.js",
+    "precache-manifest.b76c755238bff57f89f22baeeef4d9ce.js": "/cheat-react/precache-manifest.b76c755238bff57f89f22baeeef4d9ce.js",
     "service-worker.js": "/cheat-react/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/cheat-react/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2e2ce36f.chunk.js.LICENSE": "/cheat-react/static/js/2.2e2ce36f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/cheat-react/static/media/logo.5d5d9eef.svg"
+    "static/css/2.c5604eee.chunk.css.map": "/cheat-react/static/css/2.c5604eee.chunk.css.map",
+    "static/css/main.66ef0fde.chunk.css.map": "/cheat-react/static/css/main.66ef0fde.chunk.css.map",
+    "static/js/2.6a23c4ff.chunk.js.LICENSE": "/cheat-react/static/js/2.6a23c4ff.chunk.js.LICENSE",
+    "static/media/mdb.css": "/cheat-react/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/cheat-react/static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/logo.ee7cd8ed.svg": "/cheat-react/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6200d7a3.js",
-    "static/js/2.2e2ce36f.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.db99cecb.chunk.js"
+    "static/css/2.c5604eee.chunk.css",
+    "static/js/2.6a23c4ff.chunk.js",
+    "static/css/main.66ef0fde.chunk.css",
+    "static/js/main.07833486.chunk.js"
   ]
 }
