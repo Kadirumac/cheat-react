@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cheat-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cheat-app/static/js/main.fe4ca3fc.chunk.js",
-    "main.js.map": "/cheat-app/static/js/main.fe4ca3fc.chunk.js.map",
-    "runtime-main.js": "/cheat-app/static/js/runtime-main.28f36a63.js",
-    "runtime-main.js.map": "/cheat-app/static/js/runtime-main.28f36a63.js.map",
-    "static/js/2.2e2ce36f.chunk.js": "/cheat-app/static/js/2.2e2ce36f.chunk.js",
-    "static/js/2.2e2ce36f.chunk.js.map": "/cheat-app/static/js/2.2e2ce36f.chunk.js.map",
-    "index.html": "/cheat-app/index.html",
-    "precache-manifest.17501c756090f3c0a92164a175ba3989.js": "/cheat-app/precache-manifest.17501c756090f3c0a92164a175ba3989.js",
-    "service-worker.js": "/cheat-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/cheat-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2e2ce36f.chunk.js.LICENSE": "/cheat-app/static/js/2.2e2ce36f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/cheat-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/cheat-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cheat-react/static/js/main.db99cecb.chunk.js",
+    "main.js.map": "/cheat-react/static/js/main.db99cecb.chunk.js.map",
+    "runtime-main.js": "/cheat-react/static/js/runtime-main.6200d7a3.js",
+    "runtime-main.js.map": "/cheat-react/static/js/runtime-main.6200d7a3.js.map",
+    "static/js/2.2e2ce36f.chunk.js": "/cheat-react/static/js/2.2e2ce36f.chunk.js",
+    "static/js/2.2e2ce36f.chunk.js.map": "/cheat-react/static/js/2.2e2ce36f.chunk.js.map",
+    "index.html": "/cheat-react/index.html",
+    "precache-manifest.979b0372abce3bc1d96f75610cee9bf3.js": "/cheat-react/precache-manifest.979b0372abce3bc1d96f75610cee9bf3.js",
+    "service-worker.js": "/cheat-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cheat-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2e2ce36f.chunk.js.LICENSE": "/cheat-react/static/js/2.2e2ce36f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/cheat-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28f36a63.js",
+    "static/js/runtime-main.6200d7a3.js",
     "static/js/2.2e2ce36f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.fe4ca3fc.chunk.js"
+    "static/js/main.db99cecb.chunk.js"
   ]
 }
